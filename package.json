@@ -1,0 +1,19 @@
+{
+  "name": "BC2",
+  "version": "1.0.0",
+  "description": "boilerplate for basic html website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sammyboy45467/html-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammyboy45467/html-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sammyboy45467/html-boilerplate"
+}
